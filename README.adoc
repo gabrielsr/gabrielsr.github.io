@@ -1,5 +1,5 @@
-= Gabriel Rodrigues
-include::authors.adoc[]
+= Gabriel Siqueira Rodrigues
+<siqueira.rodrigues@aluno.unb.br>, <gabrielsr@gmail.com>
 :icons: image
 :icontype: png
 :favicon: ./images/favicon.png
