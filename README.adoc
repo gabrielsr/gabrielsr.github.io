@@ -37,6 +37,9 @@ This is a FAPESP funded research project conducted in collaboration with UFRGS, 
 
 == Artifacts
 
+- GoalD cite:[rodrigues_goald_2019]
+icon:github[link="https://github.com/lesunb/goald", window="_blank", alt="DOI link"]
+
 
 == References
 
