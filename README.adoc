@@ -1,7 +1,7 @@
 = CV
 include::authors.adoc[]
 :icons: image
-:icontype: svg
+:icontype: png
 
 
 Gabriel Rodrigues is a Ph.D. candidate at the University of Brasília, under supervision of link:Prof. Genaína Rodrigues[https://genaina.github.io/], and co-supervision of link: []
@@ -10,7 +10,7 @@ His research focus on Software Engineering and mission coordination of systems o
 
 == Publications
 
-- An Architecture for Mission Coordination of Heterogeneous Robots icon:file-pdf-solid[link="/preprint/rodrigues_architecture_2022.pdf", window="_blank"]
+- An Architecture for Mission Coordination of Heterogeneous Robots icon:file-pdf[link="/preprint/rodrigues_architecture_2022.pdf", window="_blank"]
 
 
 == Research Projects
