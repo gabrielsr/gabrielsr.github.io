@@ -37,8 +37,17 @@ This is a FAPESP funded research project conducted in collaboration with UFRGS, 
 
 == Artifacts
 
-- GoalD cite:[rodrigues_goald_2019]
-icon:github[link="https://github.com/lesunb/goald", window="_blank", alt="DOI link"]
+- MissionControl - An architecture for the development of applications, capable of coordinating multi-robot missions 
+icon:github[link="https://github.com/lesunb/hmrs_mission_control", window="_blank"]
+
+
+- HMRSim - Simulator for research in Heterogeneous Multi-Robots Environment. 
+icon:github[link="https://github.com/lesunb/HMRSsim", window="_blank"]
+
+
+- GoalD - Goal-Driven Deployment Framework.
+icon:github[link="https://github.com/lesunb/goald", window="_blank"]
+
 
 
 == References
