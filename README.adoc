@@ -26,6 +26,9 @@ Environments cite:[rodrigues_goald_2019]
 icon:file-pdf[link="/preprint/rodrigues_goald_2019.pdf", window="_blank"]
 icon:link[link="https://doi.org/10.1016/j.infsof.2019.04.003", window="_blank", alt="DOI link"]
 
+- [2016] Autonomic goal-driven deployment in heterogeneous computing environments
+icon:file-pdf[link="/full/rodrigues_autonomic_2016.pdf", window="_blank"]
+icon:thesis[link="http://repositorio.unb.br/handle/10482/23185", window="_blank", alt="Repo"]
 
 == Research Projects
 
