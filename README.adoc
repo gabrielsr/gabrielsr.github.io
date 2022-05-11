@@ -1,4 +1,4 @@
-= CV
+= Gabriel Rodrigues
 include::authors.adoc[]
 :icons: image
 :icontype: png
