@@ -5,19 +5,24 @@ include::authors.adoc[]
 :favicon: ./images/favicon.png
 
 
-Gabriel Rodrigues is a Ph.D. candidate at the University of Brasília, under supervision of Prof. https://genaina.github.io/[Genaína Rodrigues], and co-supervision of Prof. http://www.patriziopelliccione.com/[Patrizio Pelliccione].
+Gabriel Rodrigues is a Ph.D. candidate at the University of Brasília, under supervision of Prof. https://genaina.github.io/[Genaína Rodrigues], and  Prof. http://www.patriziopelliccione.com/[Patrizio Pelliccione].
 
 His research focus on Software Engineering and mission coordination of systems of heterogeneous robots. Before the Ph.D., Gabriel worked for 10 years in the software industry. He received his master's degree in Computer Science from the University of Brasilia in Brazil in 2015.
 
 == Publications
 
-- An Architecture for Mission Coordination of Heterogeneous Robots cite:[rodrigues_architecture_2022]
-icon:file-pdf[link="/preprint/rodrigues_architecture_2022.pdf", window="_blank"]
+- [2022] An Architecture for Mission Coordination of Heterogeneous Robots cite:[rodrigues_architecture_2022]
+icon:file-pdf[link="/preprint/rodrigues_architecture_2022.pdf", alt="Preprint", window="_blank"]
 icon:link[link="https://doi.org/10.1016/j.jss.2022.111363", window="_blank", alt="DOI link"]
 
-- GoalD: A Goal-Driven Deployment Framework
+- [2021] RoboMAX: Robotic Mission Adaptation eXemplars 
+cite:[askarpour_robomax_2021]
+icon:file-pdf[link="/preprint/askarpour_robomax_2021.pdf", alt="Preprint", window="_blank"]
+icon:link[link="https://doi.org/10.1109/SEAMS51251.2021.00040", window="_blank", alt="DOI link"]
+
+- [2019] GoalD: A Goal-Driven Deployment Framework
 for Dynamic and Heterogeneous Computing
-Environments cite:[]
+Environments cite:[rodrigues_goald_2019]
 icon:file-pdf[link="/preprint/rodrigues_goald_2019.pdf", window="_blank"]
 icon:link[link="https://doi.org/10.1016/j.infsof.2019.04.003", window="_blank", alt="DOI link"]
 
