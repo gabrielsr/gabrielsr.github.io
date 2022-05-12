@@ -10,6 +10,9 @@ short bio:: Gabriel Rodrigues is a Ph.D. candidate at the University of Brasíli
 
 His research focus on Software Engineering and mission coordination of systems of heterogeneous robots. Before the Ph.D., Gabriel worked for 10 years in the software industry. He received his master's degree in Computer Science from the University of Brasilia in Brazil in 2015.
 
+icon:github[link="https://github.com/gabrielsr", window="_blank"]
+icon:twitter[link="https://twitter.com/bielr", window="_blank"]
+icon:linkedin[link="https://www.linkedin.com/in/gabrielsrodrigues9", window="_blank"]
 
 '''
 == Publications
