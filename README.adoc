@@ -1,9 +1,11 @@
+:last-update-label!:
 = Gabriel Siqueira Rodrigues
 <siqueira.rodrigues@aluno.unb.br> / <gabrielsr@gmail.com>
 :description: Gabriel Rodrigues personal page
 :icons: image
 :icontype: png
 :favicon: ./images/favicon.png
+:docinfo: shared
 
 [[top]]
 include::header.adoc[]
