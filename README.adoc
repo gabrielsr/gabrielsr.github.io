@@ -1,5 +1,5 @@
 = Gabriel Siqueira Rodrigues
-<siqueira.rodrigues@aluno.unb.br>, <gabrielsr@gmail.com>
+<siqueira.rodrigues@aluno.unb.br> / <gabrielsr@gmail.com>
 :description: Gabriel Rodrigues personal page
 :icons: image
 :icontype: png
@@ -16,6 +16,9 @@ His research focus on Software Engineering and mission coordination of systems o
 icon:github[link="https://github.com/gabrielsr", window="_blank"]
 icon:twitter[link="https://twitter.com/bielr", window="_blank"]
 icon:linkedin[link="https://www.linkedin.com/in/gabrielsrodrigues9", window="_blank"]
+icon:orcid[link="https://orcid.org/0000-0002-2620-8550", window="_blank"]
+icon:lattes[link="", window="_blank"]
+icon:google-scholar[link="https://scholar.google.com/citations?user=zJBGtLYAAAAJ", window="_blank"]
 
 '''
 == Publications
