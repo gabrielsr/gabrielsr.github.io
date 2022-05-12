@@ -5,10 +5,13 @@
 :favicon: ./images/favicon.png
 
 
-Gabriel Rodrigues is a Ph.D. candidate at the University of Brasília, under supervision of Prof. https://genaina.github.io/[Genaína Rodrigues], and  Prof. http://www.patriziopelliccione.com/[Patrizio Pelliccione].
+image::images/profile.jpg[role=left]
+short bio:: Gabriel Rodrigues is a Ph.D. candidate at the University of Brasília, under supervision of Prof. https://genaina.github.io/[Genaína Rodrigues], and  Prof. http://www.patriziopelliccione.com/[Patrizio Pelliccione].
 
 His research focus on Software Engineering and mission coordination of systems of heterogeneous robots. Before the Ph.D., Gabriel worked for 10 years in the software industry. He received his master's degree in Computer Science from the University of Brasilia in Brazil in 2015.
 
+
+'''
 == Publications
 
 - [2022] An Architecture for Mission Coordination of Heterogeneous Robots cite:[rodrigues_architecture_2022]
@@ -26,31 +29,32 @@ Environments cite:[rodrigues_goald_2019]
 icon:file-pdf[link="/preprint/rodrigues_goald_2019.pdf", window="_blank"]
 icon:link[link="https://doi.org/10.1016/j.infsof.2019.04.003", window="_blank", alt="DOI link"]
 
-- [2016] Autonomic goal-driven deployment in heterogeneous computing environments
+- [2016] Autonomic goal-driven deployment in heterogeneous computing environments cite:[rodrigues_autonomic_2016]
 icon:file-pdf[link="/full/rodrigues_autonomic_2016.pdf", window="_blank"]
 icon:thesis[link="http://repositorio.unb.br/handle/10482/23185", window="_blank", alt="Repo"]
 
 == Research Projects
 
-Fostering the Engineering of Adaptive Robotic Missions
+Fostering the Engineering of Adaptive Robotic Missions::
 This a FAPDF funded research project conducted in collaboration with Prof. Patrizio Pelliccione from GSSI in L’Aquila, Italy and Prof. Radu Calinescu from University of York, UK. This project proposes to foster the engineering of missions of robotic applications through systematic software engineer approaches. At design time, the proposed project will provide a modelling framework that allows the end-user specify robotic missions that cope with the variability of conditions of application scenarios in real environments. At runtime, the proposal will provide an adaptive software architecture for robotic missions to increase the autonomy level of robotic missions operating in uncertain environments. The expected outcome of this project is threefold: (i) promote scientific innovation by incrementing the state-of-the-art of the engineering of autonomous robotic missions through systematic software engineer approaches; (ii) promote technologic innovation by implementing frameworks for specifying, verifying and executing robotic missions to be applied in various case studies and (iii) foster research collaboration between our research group and international academic centres of excellence.
 
-PROFISSA - Programmable Future Internet for Secure Software Architectures
+PROFISSA:: - Programmable Future Internet for Secure Software Architectures
 This is a FAPESP funded research project conducted in collaboration with UFRGS, UFABC and RNP. This project is proposed to investigate, map and advance the use of software engineering techniques when applied to programmable networks in order to improve the structural, functional and process quality of network programs. Moreover, the network programs developed in the project will be executed in real environments of programmable networks implemented on a testbed for development and analysis of software defined networks (SDN). Therefore, the integration between RNP and the FABRIC project is sought to create real state-of-the-art programmable network environments, taking into account, for example, the use of programmability in the data plane with the use of devices that support P4 interfaces.
 
 == Artifacts
 
-- MissionControl - An architecture for the development of applications, capable of coordinating multi-robot missions 
-icon:github[link="https://github.com/lesunb/hmrs_mission_control", window="_blank"]
+- icon:github[link="https://github.com/lesunb/hmrs_mission_control", window="_blank"] 
+MissionControl - An architecture for the development of applications, capable of coordinating multi-robot missions 
 
 
-- HMRSim - Simulator for research in Heterogeneous Multi-Robots Environment. 
-icon:github[link="https://github.com/lesunb/HMRSsim", window="_blank"]
+
+- icon:github[link="https://github.com/lesunb/HMRSsim", window="_blank"] 
+HMRSim - Simulator for research in Heterogeneous Multi-Robots Environment. 
 
 
-- GoalD - Goal-Driven Deployment Framework.
-icon:github[link="https://github.com/lesunb/goald", window="_blank"]
 
+- icon:github[link="https://github.com/lesunb/goald", window="_blank"] 
+GoalD - Goal-Driven Deployment Framework.
 
 
 == References
