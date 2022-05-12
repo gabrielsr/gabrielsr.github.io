@@ -1,5 +1,5 @@
 [options="header"]
 |=======================
-|<<top,Bio>>|<<Publications>>|<<Research Projects>>|<<Artifacts>>
+|<<top,Short Bio>>|<<Publications>>|<<Research Projects>>|<<Artifacts>>
 |=======================
 [.right.text-center]
