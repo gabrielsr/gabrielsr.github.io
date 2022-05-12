@@ -1,11 +1,14 @@
 = Gabriel Siqueira Rodrigues
 <siqueira.rodrigues@aluno.unb.br>, <gabrielsr@gmail.com>
+:description: Gabriel Rodrigues personal page
 :icons: image
 :icontype: png
 :favicon: ./images/favicon.png
 
-
+[[top]]
+include::header.adoc[]
 image::images/profile.jpg[role=left]
+
 short bio:: Gabriel Rodrigues is a Ph.D. candidate at the University of Brasília, under supervision of Prof. https://genaina.github.io/[Genaína Rodrigues], and  Prof. http://www.patriziopelliccione.com/[Patrizio Pelliccione].
 
 His research focus on Software Engineering and mission coordination of systems of heterogeneous robots. Before the Ph.D., Gabriel worked for 10 years in the software industry. He received his master's degree in Computer Science from the University of Brasilia in Brazil in 2015.
