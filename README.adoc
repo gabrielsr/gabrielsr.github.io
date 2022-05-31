@@ -12,9 +12,9 @@
 include::header.adoc[]
 image::images/profile.jpg[role=left]
 
-Short Bio:: Gabriel Rodrigues is a Ph.D. candidate at the University of Brasília, under supervision of Prof. https://genaina.github.io/[Genaína Rodrigues], and  Prof. http://www.patriziopelliccione.com/[Patrizio Pelliccione].
+Short Bio:: Gabriel Rodrigues is a Ph.D. candidate at the University of Brasília, under supervision of Prof. https://genaina.github.io/[Genaína Rodrigues], and  Prof. http://www.patriziopelliccione.com/[Patrizio Pelliccione].  He also spent part of his PhD candidature at the Chalmers University - Gothenburg, Sweden.
 
-His research focus on Software Engineering and mission coordination of systems of heterogeneous robots. Before the Ph.D., Gabriel worked for 10 years in the software industry. He received his master's degree in Computer Science from the University of Brasilia in Brazil in 2015.
+His research interest is on Software Engineering, Software Architecture, Self-Adaptive Systems, Software Engineering for Robotics and Cyber-Physical Systems. Before the Ph.D., Gabriel worked for 10 years in the software industry. He received his master's degree in Computer Science from the University of Brasilia in Brazil in 2015, and a MBA in Project Management by Getulio Vargas Foundation (FGV) in 2016. 
 
 icon:github[link="https://github.com/gabrielsr", window="_blank"]
 icon:twitter[link="https://twitter.com/bielr", window="_blank"]
