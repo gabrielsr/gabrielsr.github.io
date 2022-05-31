@@ -1,0 +1,1 @@
+docker run --rm -v $(pwd):/documents/ docker.io/asciidoctor/docker-asciidoctor asciidoctor -r asciidoctor-bibtex README.adoc
