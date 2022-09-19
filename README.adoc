@@ -10,7 +10,7 @@
 
 [[top]]
 include::header.adoc[]
-image::images/profile.jpg[role=left]
+image::images/profile_small.jpg[role=left]
 
 Short Bio:: Gabriel Rodrigues is a Ph.D. candidate at the University of Brasília, under the supervision of Prof. https://genaina.github.io/[Genaína Rodrigues], and are co-advised by Prof. http://www.patriziopelliccione.com/[Patrizio Pelliccione]. He also spent part of his Ph.D. candidature at the Chalmers University - Gothenburg, Sweden.
 
@@ -22,7 +22,7 @@ icon:linkedin[link="https://www.linkedin.com/in/gabrielsrodrigues9", window="_bl
 icon:orcid[link="https://orcid.org/0000-0002-2620-8550", window="_blank"]
 icon:lattes[link="http://lattes.cnpq.br/9933003052725114", alt="Lattes 9933003052725114", window="_blank"]
 icon:google-scholar[link="https://scholar.google.com/citations?user=zJBGtLYAAAAJ", window="_blank"]
-icon:researchgate[link="https://www.researchgate.net/profile/Gabriel-Rodrigues-16", window="_blank"]
+icon:researchgate_ico[link="https://www.researchgate.net/profile/Gabriel-Rodrigues-16", window="_blank"]
 
 '''
 == Publications
